@@ -1,5 +1,7 @@
-![enter image description here](https://media1.tenor.com/images/8ab88b79885ab587f84cbdfbc3b87835/tenor.gif?itemid=15917800 =150x)
+![](https://media1.tenor.com/images/4d7dbf1e601a83d0e7499dca5edd7be4/tenor.gif?itemid=13168073)
 
 *Think twice before trusting someone who uses cat GIFs on Github*
 
-  
+**Progress on this readme.md thing**
+- Updated the cat GIF multiple times
+- Still haven't figured out anything to add here. In the meantime checkout my [website](celento.me) or ping me [@celento](https://www.twitter.com/celento) on Twitter
