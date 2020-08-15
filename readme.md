@@ -2,7 +2,7 @@
 
 *Think twice before trusting someone who uses cat GIFs on Github*
 
-Most of my active repos are private (due to obvious reasons) and would love to add meaningful contributions to OSS someday.
+**Most of my active repos are private** (due to obvious reasons) and would love to add meaningful contributions to OSS someday.
 
 **Progress on this README.md thing**
 - Updated the cat GIF multiple times
