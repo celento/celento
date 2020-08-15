@@ -4,4 +4,4 @@
 
 **Progress on this README.md thing**
 - Updated the cat GIF multiple times
-- Still haven't figured out anything to add here. In the meantime checkout my [website](celento.me) or ping me [@celento](https://www.twitter.com/celento) on Twitter
+- Still haven't figured out anything to add here. In the meantime checkout my [website](https://celento.me) or ping me [@celento](https://www.twitter.com/celento) on Twitter
