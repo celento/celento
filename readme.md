@@ -1,6 +1,6 @@
 ![](https://media1.tenor.com/images/4d7dbf1e601a83d0e7499dca5edd7be4/tenor.gif?itemid=13168073)
 
-**Most of my active repos are private** (due to obvious reasons) and would love to add meaningful contributions to OSS someday.
+**Most of my active repos are private** and would love to add meaningful contributions to OSS someday.
 
 **Progress on this README.md thing**
 - Updated the cat GIF multiple times
